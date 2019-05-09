@@ -1,0 +1,21 @@
+PODS:
+  - ZJHLogining (0.1.0)
+  - ZJHNetworking (0.1.0)
+
+DEPENDENCIES:
+  - ZJHLogining (from `Lib/ZJHLogining`)
+  - ZJHNetworking (from `Lib/ZJHNetworking`)
+
+EXTERNAL SOURCES:
+  ZJHLogining:
+    :path: Lib/ZJHLogining
+  ZJHNetworking:
+    :path: Lib/ZJHNetworking
+
+SPEC CHECKSUMS:
+  ZJHLogining: a10fc332fe860515310dc0f65680fbfccefdd99f
+  ZJHNetworking: 10f71369ae7c9a37314177a144aa4a3bd4412b25
+
+PODFILE CHECKSUM: 244e835da2dd76036e1387db5fec0b6d8f884478
+
+COCOAPODS: 1.5.3

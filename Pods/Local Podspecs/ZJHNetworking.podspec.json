@@ -1,0 +1,22 @@
+{
+  "name": "ZJHNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of ZJHNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wzj809/ZJHNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wzj809": "553523042@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wzj809/ZJHNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZJHNetworking/Classes/**/*"
+}
